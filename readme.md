@@ -12,3 +12,7 @@ Password:
 Password (again):passw0rd
 Superuser created successfully: passw0rd
 ```
+
+### worklog
+
+0701 ～ デプロイまで完了
